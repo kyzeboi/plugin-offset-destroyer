@@ -1,2 +1,2 @@
 # SF-RP-Plugin-Offset-Destroyer
-safari-plugin.asi threadlarını offsetleyn bir projedir.
+safari-plugin.asi threadlarını offsetleyen bir projedir.
