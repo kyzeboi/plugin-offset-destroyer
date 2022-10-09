@@ -1,2 +1,2 @@
-# SF-RP-Plugin-Offset-Destroyer
-sfrp-plugin.asi threadlarını offsetleyen bir projedir.
+# Plugin-Offset-Destroyer
+Örnek olarak sfrp-plugin.asi/.dll threadlarını offsetleyen bir projedir.
